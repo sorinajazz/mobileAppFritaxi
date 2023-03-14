@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fritaxi</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps1">Map</string>
+    <string name="title_activity_customer_map2">Map</string>
+</resources>
